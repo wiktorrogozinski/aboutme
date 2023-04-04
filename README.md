@@ -8,7 +8,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **DXC Technology**
+- 🏢 I'm currently working at **Epam Systems**
 - ⚙️ I use daily: Azure and Terraform
 - 🌱 Learning all about **DevOps**
 
